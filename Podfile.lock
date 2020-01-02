@@ -1,0 +1,22 @@
+PODS:
+  - XYXLLogining (0.1.0):
+    - XYXLNetworking
+  - XYXLNetworking (0.1.0)
+
+DEPENDENCIES:
+  - XYXLLogining (from `Lib/XYXLLogining`)
+  - XYXLNetworking (from `Lib/XYXLNetworking`)
+
+EXTERNAL SOURCES:
+  XYXLLogining:
+    :path: Lib/XYXLLogining
+  XYXLNetworking:
+    :path: Lib/XYXLNetworking
+
+SPEC CHECKSUMS:
+  XYXLLogining: 5bc17dd877e87c4093670ddd43bd752ed2865943
+  XYXLNetworking: 1b151e4ff9ead7a1d717611fcf38786f62472f71
+
+PODFILE CHECKSUM: 7534a2312836ffeabb2cd16fcd984134cc72e845
+
+COCOAPODS: 1.8.4
