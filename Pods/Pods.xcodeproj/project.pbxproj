@@ -7,20 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		17067C46A431ED6D6D8B5BFF8CBC15D9 /* XYXLLogining-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5ED0C9B551239F99806D866565BC0383 /* XYXLLogining-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		17067C46A431ED6D6D8B5BFF8CBC15D9 /* XYXLLogining-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 43211AB7ABDC85A945ACC60AAA53D6E8 /* XYXLLogining-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		19B736C32B7AEE8D4EB19CFAC7764BD1 /* Pods-XYXDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3457E24B262CBE7A8B2B7D393E0BBE32 /* Pods-XYXDemo-dummy.m */; };
 		21D0717440858B0F5E3A1BC445FAE315 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CF5254BA743953EED415E9F0B84065B /* Foundation.framework */; };
-		3CE1BB0E3F251AED7BCEF66D316181B4 /* XYXLLogining.h in Headers */ = {isa = PBXBuildFile; fileRef = 204BAF3A5BF29251F37A29764ADA9947 /* XYXLLogining.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3D1DAD732A9FDEE2DFC5DEDF4E4FD169 /* XYXLNetworking-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 18CCDCAE7FFC146F7B2D218D9F37B971 /* XYXLNetworking-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		463BA00B0CEB6DB06F14A7520F82F48C /* XYXLLogining.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FBC37D825D73C81DD0C31A3765D83AA /* XYXLLogining.m */; };
+		3CE1BB0E3F251AED7BCEF66D316181B4 /* XYXLLogining.h in Headers */ = {isa = PBXBuildFile; fileRef = 2387190561B62E0E13E3EB8B2C8197F6 /* XYXLLogining.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3D1DAD732A9FDEE2DFC5DEDF4E4FD169 /* XYXLNetworking-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1BBE8F857312F10E661390DEA57BC5BD /* XYXLNetworking-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		463BA00B0CEB6DB06F14A7520F82F48C /* XYXLLogining.m in Sources */ = {isa = PBXBuildFile; fileRef = B21E69C14FD9C58513ECE5429F50340E /* XYXLLogining.m */; };
 		4C1657DCDA3FABA58E2351D1EACA24B7 /* XYXLNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A8C4CF8D208A4DCE4229845A3C9A2F1 /* XYXLNetworking.framework */; };
 		521775193319A14F9E77B828A34B80FF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CF5254BA743953EED415E9F0B84065B /* Foundation.framework */; };
-		5AB9E226A9632183D33FEFCEB78F22BA /* XYXLNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = C548B8D86686DB2148286461B4410D80 /* XYXLNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		64A8FAFE73C8576B942FD0A4CC060AEA /* XYXLNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = F04B6DE25FC18209796FE378FA716CB1 /* XYXLNetworking.m */; };
+		5AB9E226A9632183D33FEFCEB78F22BA /* XYXLNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BF7CD0CE2D688268FF84E91B9CC152C /* XYXLNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		64A8FAFE73C8576B942FD0A4CC060AEA /* XYXLNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D4A2C385808789DB00D8DAA28EA4D17C /* XYXLNetworking.m */; };
 		742F26DF7A4DA1DD3C9C02A72E3E9361 /* Pods-XYXDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 865E0091BE16FB3FFC8969212375A110 /* Pods-XYXDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		80110E70318FFA4E0B00CEF47AA78A72 /* XYXLLogining-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 14FB8EA9BF382D2CE3ACEF60FF46BC04 /* XYXLLogining-dummy.m */; };
+		80110E70318FFA4E0B00CEF47AA78A72 /* XYXLLogining-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D544D2A51D0D1644F89AEBE96A88664 /* XYXLLogining-dummy.m */; };
 		C08434349B528A41FEC4DB1ADBE75FC1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CF5254BA743953EED415E9F0B84065B /* Foundation.framework */; };
-		E76BE91276B71C29B7B7D58150E2B674 /* XYXLNetworking-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EB8A888F0C41929F47550DE79427B49C /* XYXLNetworking-dummy.m */; };
+		E76BE91276B71C29B7B7D58150E2B674 /* XYXLNetworking-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 012B55202731BCD8A77ABEF609A944B8 /* XYXLNetworking-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,43 +48,42 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		14FB8EA9BF382D2CE3ACEF60FF46BC04 /* XYXLLogining-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XYXLLogining-dummy.m"; sourceTree = "<group>"; };
-		18CCDCAE7FFC146F7B2D218D9F37B971 /* XYXLNetworking-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XYXLNetworking-umbrella.h"; sourceTree = "<group>"; };
-		19837A9BDF758CD6200B85CC3F37E5FC /* XYXLLogining-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XYXLLogining-prefix.pch"; sourceTree = "<group>"; };
-		1AC8C6BD8A5AF3CB66F54651E8472C90 /* XYXLLogining.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = XYXLLogining.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		012B55202731BCD8A77ABEF609A944B8 /* XYXLNetworking-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XYXLNetworking-dummy.m"; sourceTree = "<group>"; };
+		092F2C24E399B929DB674874EC0D2C95 /* XYXLNetworking.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XYXLNetworking.release.xcconfig; sourceTree = "<group>"; };
+		1BBE8F857312F10E661390DEA57BC5BD /* XYXLNetworking-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XYXLNetworking-umbrella.h"; sourceTree = "<group>"; };
 		204953C81A9E9FD7ED756981BBBD85C2 /* Pods-XYXDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XYXDemo-acknowledgements.plist"; sourceTree = "<group>"; };
-		204BAF3A5BF29251F37A29764ADA9947 /* XYXLLogining.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XYXLLogining.h; path = XYXLLogining/Classes/XYXLLogining.h; sourceTree = "<group>"; };
+		2387190561B62E0E13E3EB8B2C8197F6 /* XYXLLogining.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XYXLLogining.h; path = XYXLLogining/Classes/XYXLLogining.h; sourceTree = "<group>"; };
+		27644DA2D0162B8DAF3B9812F8F7AD10 /* XYXLNetworking.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XYXLNetworking.modulemap; sourceTree = "<group>"; };
 		3457E24B262CBE7A8B2B7D393E0BBE32 /* Pods-XYXDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XYXDemo-dummy.m"; sourceTree = "<group>"; };
-		37CA6B657E4186FBDE26476DBC59A913 /* XYXLLogining.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XYXLLogining.modulemap; sourceTree = "<group>"; };
+		3BF7CD0CE2D688268FF84E91B9CC152C /* XYXLNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XYXLNetworking.h; path = XYXLNetworking/Classes/XYXLNetworking.h; sourceTree = "<group>"; };
 		3CF5254BA743953EED415E9F0B84065B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		3EF9CB73A09CB6512FA31C25F8F0881D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		3FF0628A811B1209227C90FF897A3A57 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		3FC6F7E26F2263594CAE6694DF21C37B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		43211AB7ABDC85A945ACC60AAA53D6E8 /* XYXLLogining-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XYXLLogining-umbrella.h"; sourceTree = "<group>"; };
 		466BDC6100881E78DE8E6F7C159D418B /* XYXLLogining.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XYXLLogining.framework; path = XYXLLogining.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4974F45E3976A67F299FB294812AC87E /* Pods-XYXDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XYXDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		4A8C4CF8D208A4DCE4229845A3C9A2F1 /* XYXLNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XYXLNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5CD7610BDBBB1EC0A88A4D1F2074F3B4 /* XYXLLogining-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "XYXLLogining-Info.plist"; sourceTree = "<group>"; };
-		5ED0C9B551239F99806D866565BC0383 /* XYXLLogining-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XYXLLogining-umbrella.h"; sourceTree = "<group>"; };
-		7FBC37D825D73C81DD0C31A3765D83AA /* XYXLLogining.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XYXLLogining.m; path = XYXLLogining/Classes/XYXLLogining.m; sourceTree = "<group>"; };
+		5162E2C856119B0D2F59E6F1AEA8A31B /* XYXLNetworking-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XYXLNetworking-prefix.pch"; sourceTree = "<group>"; };
+		6A902EDE717537C4F22BB3EEB62FB0F9 /* XYXLNetworking.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XYXLNetworking.debug.xcconfig; sourceTree = "<group>"; };
+		75BDA3F33C3054DE51D94B0872C0D4DD /* XYXLLogining.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XYXLLogining.debug.xcconfig; sourceTree = "<group>"; };
+		7D544D2A51D0D1644F89AEBE96A88664 /* XYXLLogining-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XYXLLogining-dummy.m"; sourceTree = "<group>"; };
 		817D38824762B671DBDCEAE9490B6CE0 /* Pods-XYXDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-XYXDemo.modulemap"; sourceTree = "<group>"; };
 		8263E3476B1BB7EF7C631F4F4A8540B6 /* Pods-XYXDemo-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XYXDemo-Info.plist"; sourceTree = "<group>"; };
+		835E1DC88357C1058E4EFBE019580AA9 /* XYXLLogining-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XYXLLogining-prefix.pch"; sourceTree = "<group>"; };
 		865E0091BE16FB3FFC8969212375A110 /* Pods-XYXDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XYXDemo-umbrella.h"; sourceTree = "<group>"; };
-		89B1300A932E18E90C3AE88A233DE432 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		9446AE59D576BCD00BF104EC933046E4 /* XYXLNetworking-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "XYXLNetworking-Info.plist"; sourceTree = "<group>"; };
+		9999D58F5B7617FF69B0BBF7B5E4329A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		AB5A29C443B2E819E366D0A2DC89D558 /* XYXLLogining.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XYXLLogining.xcconfig; sourceTree = "<group>"; };
+		A9F1E1F5C735BCFCEBCDF636636561F8 /* XYXLLogining.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XYXLLogining.modulemap; sourceTree = "<group>"; };
+		B21E69C14FD9C58513ECE5429F50340E /* XYXLLogining.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XYXLLogining.m; path = XYXLLogining/Classes/XYXLLogining.m; sourceTree = "<group>"; };
+		B349754B2BF7BAD459A320E7DF9CF626 /* XYXLLogining.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = XYXLLogining.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B48C96D934451150A28EA803CC703F43 /* XYXLLogining-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "XYXLLogining-Info.plist"; sourceTree = "<group>"; };
 		B531D0FF4C48FAA4BD92A5B7C74E06CC /* Pods-XYXDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XYXDemo.release.xcconfig"; sourceTree = "<group>"; };
-		C3432F0ABFA3F396C5282D7EA4BF06AB /* XYXLNetworking.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XYXLNetworking.modulemap; sourceTree = "<group>"; };
-		C548B8D86686DB2148286461B4410D80 /* XYXLNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XYXLNetworking.h; path = XYXLNetworking/Classes/XYXLNetworking.h; sourceTree = "<group>"; };
 		CFF5AD75EB53FC8E90ACD83E7301A528 /* Pods-XYXDemo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XYXDemo-frameworks.sh"; sourceTree = "<group>"; };
+		D4A2C385808789DB00D8DAA28EA4D17C /* XYXLNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XYXLNetworking.m; path = XYXLNetworking/Classes/XYXLNetworking.m; sourceTree = "<group>"; };
 		D9A12DD071F425ADD047AB37D4797656 /* Pods-XYXDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XYXDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
-		E087DC44A998290A20D42120EEB979A6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		E392636C8668BF5EC9B6A401CC25928A /* XYXLNetworking.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = XYXLNetworking.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		EB8A888F0C41929F47550DE79427B49C /* XYXLNetworking-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XYXLNetworking-dummy.m"; sourceTree = "<group>"; };
-		F04B6DE25FC18209796FE378FA716CB1 /* XYXLNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XYXLNetworking.m; path = XYXLNetworking/Classes/XYXLNetworking.m; sourceTree = "<group>"; };
-		F4805A3AF9079EC0E7824AEEA7ED4F99 /* XYXLNetworking-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XYXLNetworking-prefix.pch"; sourceTree = "<group>"; };
+		DBCBDB6B8F2D05CA03403DBFD22F71FF /* XYXLNetworking-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "XYXLNetworking-Info.plist"; sourceTree = "<group>"; };
+		ED3A57028F4DE0A34A5F6AEA2857161C /* XYXLLogining.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XYXLLogining.release.xcconfig; sourceTree = "<group>"; };
 		F77CA3B862D871D51A77C2BFF16FCC9A /* Pods_XYXDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XYXDemo.framework; path = "Pods-XYXDemo.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9AA1EC2E350AF17186710291FA5D18F /* XYXLNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XYXLNetworking.framework; path = XYXLNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FCD90B0382145CF37972E1CE9C24E3BD /* XYXLNetworking.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XYXLNetworking.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +125,26 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		105C0FAD442E12B1F1919E67E242C0CB /* XYXLLogining */ = {
+			isa = PBXGroup;
+			children = (
+				2387190561B62E0E13E3EB8B2C8197F6 /* XYXLLogining.h */,
+				B21E69C14FD9C58513ECE5429F50340E /* XYXLLogining.m */,
+				7356B417F309D841EDD1595DF03DD25A /* Pod */,
+				D3BF56C637CDE78059824B51BD46DFB5 /* Support Files */,
+			);
+			name = XYXLLogining;
+			path = ../Lib/XYXLLogining;
+			sourceTree = "<group>";
+		};
+		239FEB456D090F86718F2E70EEEACF4D /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				105C0FAD442E12B1F1919E67E242C0CB /* XYXLLogining */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
 		32D2F2503DC6EA157BCC0C24F24E33C7 /* Pods-XYXDemo */ = {
 			isa = PBXGroup;
 			children = (
@@ -141,34 +160,6 @@
 			);
 			name = "Pods-XYXDemo";
 			path = "Target Support Files/Pods-XYXDemo";
-			sourceTree = "<group>";
-		};
-		441BAD7BC62AEB3C57A2D3D5A7D3C21E /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				C3432F0ABFA3F396C5282D7EA4BF06AB /* XYXLNetworking.modulemap */,
-				FCD90B0382145CF37972E1CE9C24E3BD /* XYXLNetworking.xcconfig */,
-				EB8A888F0C41929F47550DE79427B49C /* XYXLNetworking-dummy.m */,
-				9446AE59D576BCD00BF104EC933046E4 /* XYXLNetworking-Info.plist */,
-				F4805A3AF9079EC0E7824AEEA7ED4F99 /* XYXLNetworking-prefix.pch */,
-				18CCDCAE7FFC146F7B2D218D9F37B971 /* XYXLNetworking-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "../../Pods/Target Support Files/XYXLNetworking";
-			sourceTree = "<group>";
-		};
-		5382DC2578FD992E327AE126AC987DF8 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				37CA6B657E4186FBDE26476DBC59A913 /* XYXLLogining.modulemap */,
-				AB5A29C443B2E819E366D0A2DC89D558 /* XYXLLogining.xcconfig */,
-				14FB8EA9BF382D2CE3ACEF60FF46BC04 /* XYXLLogining-dummy.m */,
-				5CD7610BDBBB1EC0A88A4D1F2074F3B4 /* XYXLLogining-Info.plist */,
-				19837A9BDF758CD6200B85CC3F37E5FC /* XYXLLogining-prefix.pch */,
-				5ED0C9B551239F99806D866565BC0383 /* XYXLLogining-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "../../Pods/Target Support Files/XYXLLogining";
 			sourceTree = "<group>";
 		};
 		591001E746A4879D13AB1DFC62BBC3CE /* Frameworks */ = {
@@ -188,68 +179,75 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		66C8450EDEBDBCD1BA4D6021510C3AF2 /* Development Pods */ = {
+		7356B417F309D841EDD1595DF03DD25A /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				B93719F1A5216A6438FC9CF2255457B0 /* XYXLLogining */,
-				BBD8F46FF8DAF149CE1105499690B0E9 /* XYXLNetworking */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		700AD16DD73D6F04C0BDBD8C68ECEC58 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				3FF0628A811B1209227C90FF897A3A57 /* LICENSE */,
-				89B1300A932E18E90C3AE88A233DE432 /* README.md */,
-				1AC8C6BD8A5AF3CB66F54651E8472C90 /* XYXLLogining.podspec */,
+				3FC6F7E26F2263594CAE6694DF21C37B /* LICENSE */,
+				9999D58F5B7617FF69B0BBF7B5E4329A /* README.md */,
+				B349754B2BF7BAD459A320E7DF9CF626 /* XYXLLogining.podspec */,
 			);
 			name = Pod;
 			sourceTree = "<group>";
 		};
-		A8EF682D536E4EDA121C88D347C89150 /* Pod */ = {
+		79E67C9A14318D8F482A7D6A260F3128 /* XYXLNetworking */ = {
 			isa = PBXGroup;
 			children = (
-				3EF9CB73A09CB6512FA31C25F8F0881D /* LICENSE */,
-				E087DC44A998290A20D42120EEB979A6 /* README.md */,
-				E392636C8668BF5EC9B6A401CC25928A /* XYXLNetworking.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		B93719F1A5216A6438FC9CF2255457B0 /* XYXLLogining */ = {
-			isa = PBXGroup;
-			children = (
-				204BAF3A5BF29251F37A29764ADA9947 /* XYXLLogining.h */,
-				7FBC37D825D73C81DD0C31A3765D83AA /* XYXLLogining.m */,
-				700AD16DD73D6F04C0BDBD8C68ECEC58 /* Pod */,
-				5382DC2578FD992E327AE126AC987DF8 /* Support Files */,
-			);
-			name = XYXLLogining;
-			path = ../Lib/XYXLLogining;
-			sourceTree = "<group>";
-		};
-		BBD8F46FF8DAF149CE1105499690B0E9 /* XYXLNetworking */ = {
-			isa = PBXGroup;
-			children = (
-				C548B8D86686DB2148286461B4410D80 /* XYXLNetworking.h */,
-				F04B6DE25FC18209796FE378FA716CB1 /* XYXLNetworking.m */,
-				A8EF682D536E4EDA121C88D347C89150 /* Pod */,
-				441BAD7BC62AEB3C57A2D3D5A7D3C21E /* Support Files */,
+				3BF7CD0CE2D688268FF84E91B9CC152C /* XYXLNetworking.h */,
+				D4A2C385808789DB00D8DAA28EA4D17C /* XYXLNetworking.m */,
+				A67FC090B78B905CC90D987C928B42F3 /* Support Files */,
 			);
 			name = XYXLNetworking;
-			path = ../Lib/XYXLNetworking;
+			path = XYXLNetworking;
+			sourceTree = "<group>";
+		};
+		A67FC090B78B905CC90D987C928B42F3 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				27644DA2D0162B8DAF3B9812F8F7AD10 /* XYXLNetworking.modulemap */,
+				012B55202731BCD8A77ABEF609A944B8 /* XYXLNetworking-dummy.m */,
+				DBCBDB6B8F2D05CA03403DBFD22F71FF /* XYXLNetworking-Info.plist */,
+				5162E2C856119B0D2F59E6F1AEA8A31B /* XYXLNetworking-prefix.pch */,
+				1BBE8F857312F10E661390DEA57BC5BD /* XYXLNetworking-umbrella.h */,
+				6A902EDE717537C4F22BB3EEB62FB0F9 /* XYXLNetworking.debug.xcconfig */,
+				092F2C24E399B929DB674874EC0D2C95 /* XYXLNetworking.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/XYXLNetworking";
+			sourceTree = "<group>";
+		};
+		C801EACF19EFD2EDB828862821FCFA52 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				79E67C9A14318D8F482A7D6A260F3128 /* XYXLNetworking */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				66C8450EDEBDBCD1BA4D6021510C3AF2 /* Development Pods */,
+				239FEB456D090F86718F2E70EEEACF4D /* Development Pods */,
 				591001E746A4879D13AB1DFC62BBC3CE /* Frameworks */,
+				C801EACF19EFD2EDB828862821FCFA52 /* Pods */,
 				097CACC611764F3CDCB0F79139ED174F /* Products */,
 				D78D786A1D96DE1F3ADA91C30697B0C5 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		D3BF56C637CDE78059824B51BD46DFB5 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				A9F1E1F5C735BCFCEBCDF636636561F8 /* XYXLLogining.modulemap */,
+				7D544D2A51D0D1644F89AEBE96A88664 /* XYXLLogining-dummy.m */,
+				B48C96D934451150A28EA803CC703F43 /* XYXLLogining-Info.plist */,
+				835E1DC88357C1058E4EFBE019580AA9 /* XYXLLogining-prefix.pch */,
+				43211AB7ABDC85A945ACC60AAA53D6E8 /* XYXLLogining-umbrella.h */,
+				75BDA3F33C3054DE51D94B0872C0D4DD /* XYXLLogining.debug.xcconfig */,
+				ED3A57028F4DE0A34A5F6AEA2857161C /* XYXLLogining.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../../Pods/Target Support Files/XYXLLogining";
 			sourceTree = "<group>";
 		};
 		D78D786A1D96DE1F3ADA91C30697B0C5 /* Targets Support Files */ = {
@@ -453,6 +451,40 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		5A070A7F73B092DE390B3D83A7BBD452 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6A902EDE717537C4F22BB3EEB62FB0F9 /* XYXLNetworking.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/XYXLNetworking/XYXLNetworking-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/XYXLNetworking/XYXLNetworking-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/XYXLNetworking/XYXLNetworking.modulemap";
+				PRODUCT_MODULE_NAME = XYXLNetworking;
+				PRODUCT_NAME = XYXLNetworking;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		658DF0EE38BBEC1E4DE29BFF1FBAFF53 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B531D0FF4C48FAA4BD92A5B7C74E06CC /* Pods-XYXDemo.release.xcconfig */;
@@ -492,6 +524,40 @@
 			};
 			name = Release;
 		};
+		6DC7B9EEBEA7A57A1B349EC549BB1F2D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 75BDA3F33C3054DE51D94B0872C0D4DD /* XYXLLogining.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/XYXLLogining/XYXLLogining-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/XYXLLogining/XYXLLogining-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/XYXLLogining/XYXLLogining.modulemap";
+				PRODUCT_MODULE_NAME = XYXLLogining;
+				PRODUCT_NAME = XYXLLogining;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		77EB70C1BC42066FFB6F1DDF9CE6DFF8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4974F45E3976A67F299FB294812AC87E /* Pods-XYXDemo.debug.xcconfig */;
@@ -529,76 +595,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		7DE90CEF78BF564921BCA5A558F26E99 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = AB5A29C443B2E819E366D0A2DC89D558 /* XYXLLogining.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/XYXLLogining/XYXLLogining-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/XYXLLogining/XYXLLogining-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/XYXLLogining/XYXLLogining.modulemap";
-				PRODUCT_MODULE_NAME = XYXLLogining;
-				PRODUCT_NAME = XYXLLogining;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		83CB74DD929206626E5F483FF1F06A57 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FCD90B0382145CF37972E1CE9C24E3BD /* XYXLNetworking.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/XYXLNetworking/XYXLNetworking-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/XYXLNetworking/XYXLNetworking-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/XYXLNetworking/XYXLNetworking.modulemap";
-				PRODUCT_MODULE_NAME = XYXLNetworking;
-				PRODUCT_NAME = XYXLNetworking;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		939F1A8F6BCEB7F9F64D9EEE50CAE014 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -664,9 +660,9 @@
 			};
 			name = Debug;
 		};
-		9CF052944B4BFA2051B3442AEAC11A7F /* Debug */ = {
+		D5D70F9A5C6EE36463D476EDFC798D44 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FCD90B0382145CF37972E1CE9C24E3BD /* XYXLNetworking.xcconfig */;
+			baseConfigurationReference = 092F2C24E399B929DB674874EC0D2C95 /* XYXLNetworking.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -693,14 +689,15 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
-		B10E2B86C5CB83DBF7F66850273C93AF /* Debug */ = {
+		D5F6871EA2B6A3219BCE23980C024852 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AB5A29C443B2E819E366D0A2DC89D558 /* XYXLLogining.xcconfig */;
+			baseConfigurationReference = ED3A57028F4DE0A34A5F6AEA2857161C /* XYXLLogining.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -727,10 +724,11 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
 		ECB437504DF805BD96CAABF97400B526 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -816,8 +814,8 @@
 		6C5B4DA16DB94178700A332C8D71C377 /* Build configuration list for PBXNativeTarget "XYXLNetworking" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9CF052944B4BFA2051B3442AEAC11A7F /* Debug */,
-				83CB74DD929206626E5F483FF1F06A57 /* Release */,
+				5A070A7F73B092DE390B3D83A7BBD452 /* Debug */,
+				D5D70F9A5C6EE36463D476EDFC798D44 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -825,8 +823,8 @@
 		DCE6AF29A819F43FEB51E32FE1787AB5 /* Build configuration list for PBXNativeTarget "XYXLLogining" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B10E2B86C5CB83DBF7F66850273C93AF /* Debug */,
-				7DE90CEF78BF564921BCA5A558F26E99 /* Release */,
+				6DC7B9EEBEA7A57A1B349EC549BB1F2D /* Debug */,
+				D5F6871EA2B6A3219BCE23980C024852 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

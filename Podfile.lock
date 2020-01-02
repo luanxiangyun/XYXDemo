@@ -5,18 +5,20 @@ PODS:
 
 DEPENDENCIES:
   - XYXLLogining (from `Lib/XYXLLogining`)
-  - XYXLNetworking (from `Lib/XYXLNetworking`)
+  - XYXLNetworking
+
+SPEC REPOS:
+  trunk:
+    - XYXLNetworking
 
 EXTERNAL SOURCES:
   XYXLLogining:
     :path: Lib/XYXLLogining
-  XYXLNetworking:
-    :path: Lib/XYXLNetworking
 
 SPEC CHECKSUMS:
-  XYXLLogining: 5bc17dd877e87c4093670ddd43bd752ed2865943
-  XYXLNetworking: 1b151e4ff9ead7a1d717611fcf38786f62472f71
+  XYXLLogining: 716d6fa93d580bed852bdbd34bb142ced9efe986
+  XYXLNetworking: d7463be746df495c658bd067bdbdc53b5c3709b1
 
-PODFILE CHECKSUM: 7534a2312836ffeabb2cd16fcd984134cc72e845
+PODFILE CHECKSUM: bfded7a47536832d61439ff2ef82d14ea10aec20
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.9.0.beta.2
